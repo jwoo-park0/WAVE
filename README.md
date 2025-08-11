@@ -3,10 +3,10 @@
   <h3 align="center"><b>ICCV 2025</b></h3>
   <p align="center">
     <h3 align="center">
-      <a href="wldn1677@yonsei.ac.kr"><strong>Jiwoo Park</strong></a> · 
-      <a href="teunchoi@yonsei.ac.kr"><strong>Tae Eun Choi</strong></a> · 
-      <a href="youngjun@yonsei.ac.kr"><strong>Youngjun jun</strong></a> ·  
-      <a href="seongjae@yonsei.ac.kr"><strong>Seong Jae Hwang</strong></a>
+      <a href="mailto:wldn1677@yonsei.ac.kr"><strong>Jiwoo Park</strong></a> · 
+      <a href="mailto:teunchoi@yonsei.ac.kr"><strong>Tae Eun Choi</strong></a> · 
+      <a href="mailto:youngjun@yonsei.ac.kr"><strong>Youngjun jun</strong></a> ·  
+      <a href="mailto:seongjae@yonsei.ac.kr"><strong>Seong Jae Hwang</strong></a>
     </h3>
     <h3 align="center">
       Yonsei University
