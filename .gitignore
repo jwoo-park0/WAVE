@@ -1,0 +1,15 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Output directories
+save_dir/
+warped/
+per_view_generation/
+videos/
+
+Depth-Anything/
+
+last.sh
